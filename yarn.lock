@@ -6065,9 +6065,9 @@ muggle-string@^0.4.1:
   integrity sha512-VNTrAak/KhO2i8dqqnqnAHOa3cYBwXEZe9h+D5h/1ZqFSTEFHdM65lR7RoIqq3tBBYavsOXV84NoHXZ0AkPyqQ==
 
 nanoid@^3.3.7:
-  version "3.3.7"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.7.tgz#d0c301a691bc8d54efa0a2226ccf3fe2fd656bd8"
-  integrity sha512-eSRppjcPIatRIMC1U6UngP8XFcz8MQWGQdt1MTBQ7NaAmvXDfvNxbvWV3x2y6CdEUciCSsDHDQZbhYaB8QEo2g==
+  version "3.3.8"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.8.tgz#b1be3030bee36aaff18bacb375e5cce521684baf"
+  integrity sha512-WNLf5Sd8oZxOm+TzppcYk8gVOgP+l58xNy58D0nbUnOxOWRWvlcCV4kUF7ltmI6PsrLl/BgKEyS4mqsGChFN0w==
 
 nanomatch@^1.2.9:
   version "1.2.13"
@@ -7551,10 +7551,10 @@ static-extend@^0.1.1:
     define-property "^0.2.5"
     object-copy "^0.1.0"
 
-storybook-addon-tag-badges@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/storybook-addon-tag-badges/-/storybook-addon-tag-badges-1.0.1.tgz#7d34ee1f1ce1b5c7d2b243ba7aba41f7e5d4311f"
-  integrity sha512-fUI7MziVDsKHxW2Ng3CtWR4tlFOREboMbV0svlgYKzctB/UEORsXPdAcla8dGE8coHF1YOrplkvYjOx6W5tNHA==
+storybook-addon-tag-badges@^1.0.3:
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/storybook-addon-tag-badges/-/storybook-addon-tag-badges-1.3.2.tgz#b4a297189f85f68c38fe2ade397b37aa65e233e4"
+  integrity sha512-8xtIWJNfedc2iwOcLC7QSMLgbGz6VQRlx/LeXg/TRV5mlENu+XJdbJ0hEqH+spwwDwOD4ZxPj15X5Mgg6YMjDA==
   dependencies:
     "@storybook/icons" "^1.2.12"
 
