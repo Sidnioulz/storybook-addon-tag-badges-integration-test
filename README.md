@@ -1,10 +1,10 @@
-<h1>HTML Latest (Vite | TypeScript)</h1>
+<h1>Integration tests for storybook-addon-tag-badges</h1>
 
 <p>
-  This is project generated to serve as a reproduction starter for Storybook.
+  This is project generated to serve as a Storybook starter.
 </p>
 
-<a  href="https://stackblitz.com/github/storybookjs/sandboxes/tree/next/html-vite/default-ts/after-storybook?preset=node=">
+<a href="https://stackblitz.com/~/github.com/Sidnioulz/storybook-addon-tag-badges-integration-test">
   View it in Stackblitz
 </a>
 
