@@ -7,7 +7,7 @@ import { createUnstableButton } from './UnstableButton';
 // More on how to set up stories at: https://storybook.js.org/docs/writing-stories#default-export
 const meta = {
   title: 'Example/UnstableButton',
-  tags: ['autodocs', 'unstable', 'deprecated', 'version:1.0.0'],
+  tags: ['autodocs', 'beta', 'unstable', 'deprecated', 'version:1.0.0'],
   render: (args) => {
     // You can either use a function to create DOM elements or use a plain html string!
     // return `<div>${label}</div>`;
