@@ -1,4 +1,6 @@
-import type { Preview } from "@storybook/html";
+import type { Preview } from "@storybook/html-vite";
+// import { defaultConfig } from 'storybook-addon-tag-badges/manager-helpers'
+import { tagBadges } from './tagBadges'
 
 const preview: Preview = {
   parameters: {
